@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile!
 
-I’m a passionate developer and learner who loves working with technology. Right now, I’m focused on web development and web security, and I enjoy finding and fixing bugs. I have a strong interest in Linux and a passion for building things from scratch
+I’m a passionate developer and hacker who loves working with technology. Right now, I’m focused on web development and web security, and I enjoy finding and fixing bugs. I have a strong interest in Linux and a passion for building things from scratch
 
 ## What I Do
 
