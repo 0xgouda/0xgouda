@@ -24,7 +24,7 @@ Welcome to my GitHub profile!
 
   ![Bash](https://skillicons.dev/icons?i=bash)  
 
-  ![C++](https://skillicons.dev/icons?i=c++)  
+  ![C++](https://skillicons.dev/icons?i=cpp)  
 
 - **Web Development:**
 
