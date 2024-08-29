@@ -18,24 +18,12 @@ Welcome to my GitHub profile!
 
 - **Programming Languages:**
 
-  ![Python](https://skillicons.dev/icons?i=python)  
-
-  ![JavaScript](https://skillicons.dev/icons?i=javascript)  
-
-  ![Bash](https://skillicons.dev/icons?i=bash)  
-
-  ![C++](https://skillicons.dev/icons?i=cpp)  
+  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Bash](https://skillicons.dev/icons?i=bash)  ![C++](https://skillicons.dev/icons?i=cpp)  
 
 - **Web Development:**
 
-  ![HTML](https://skillicons.dev/icons?i=html)  
-
-  ![PHP](https://skillicons.dev/icons?i=php)  
-
-  ![MySQL](https://skillicons.dev/icons?i=mysql)  
+  ![HTML](https://skillicons.dev/icons?i=html)  ![PHP](https://skillicons.dev/icons?i=php)  ![MySQL](https://skillicons.dev/icons?i=mysql)  
 
 - **Tools:**
 
-  ![Git](https://skillicons.dev/icons?i=git)  
-
-  ![Linux](https://skillicons.dev/icons?i=linux)  
+  ![Git](https://skillicons.dev/icons?i=git)  ![Linux](https://skillicons.dev/icons?i=linux)  
