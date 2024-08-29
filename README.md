@@ -1,8 +1,10 @@
-# Hi there, I'm 0xgouda 👋
+# Hi 👋, I'm 0xgouda
 
 Welcome to my GitHub profile!
 
-## About Me
+I’m a passionate developer and learner who loves working with technology. Right now, I’m focused on web development and web security, and I enjoy finding and fixing bugs. I have a strong interest in Linux and a passion for building things from scratch
+
+## What I Do
 
 - 🔭 I’m currently working on: [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine)
 - 🌱 I’m currently learning: Web (development & security), Python, Bash 
@@ -18,12 +20,12 @@ Welcome to my GitHub profile!
 
 - **Programming Languages:**
 
-  ![Python](https://skillicons.dev/icons?i=python)      ![JavaScript](https://skillicons.dev/icons?i=javascript)    ![Bash](https://skillicons.dev/icons?i=bash)    ![C++](https://skillicons.dev/icons?i=cpp)  
+  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Bash](https://skillicons.dev/icons?i=bash)  ![C++](https://skillicons.dev/icons?i=cpp)  
 
 - **Web Development:**
 
-  ![HTML](https://skillicons.dev/icons?i=html)      ![PHP](https://skillicons.dev/icons?i=php)      ![MySQL](https://skillicons.dev/icons?i=mysql)  
+  ![HTML](https://skillicons.dev/icons?i=html)  ![PHP](https://skillicons.dev/icons?i=php)  ![MySQL](https://skillicons.dev/icons?i=mysql)  
 
 - **Tools:**
 
-  ![Git](https://skillicons.dev/icons?i=git)    ![Linux](https://skillicons.dev/icons?i=linux)  
+  ![Git](https://skillicons.dev/icons?i=git)  ![Linux](https://skillicons.dev/icons?i=linux)  
