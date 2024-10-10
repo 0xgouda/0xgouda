@@ -6,17 +6,18 @@ I’m a passionate developer and hacker who loves working with technology. Right
 
 ## What I Do
 
-- 🔭 I’m currently working on: [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine)
+- 🔭 I’m currently working on: [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine)/[Server Side PHP projects](https://github.com/0xgouda/PhpProjects)
 - 🌱 I’m currently learning: Web (development & security), Python, Bash 
 - 💬 Ask me about: Software Engineering, Bug Hunting, Web Development
 - 📫 How to reach me: [Email me](mailto:gouda0x@gmail.com) | [Twitter](https://x.com/_Ahmed_gouda__)
 
 ## My Projects
 
-- [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine) - a basic implemenation of a web browser
-- [shopping cart](https://github.com/0xgouda/shopping_cart_project) - a simple project to get my foot into the world of web development
+- [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine) - a basic implementation of a web browser
+- [Server Side PHP projects](https://github.com/0xgouda/PhpProjects) - a collection of small/medium PHP projects 
 
 ## Skills
+- I don't stick to just one technology; I typically Google things as needed and get to work. However, here are some of the technologies I've worked with in the past.
 
 - **Programming Languages:**
 
