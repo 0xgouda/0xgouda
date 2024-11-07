@@ -16,9 +16,10 @@ I’m a passionate developer and hacker who loves working with technology. Right
 - [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine) - a basic implementation of a web browser
 - [Server Side PHP projects](https://github.com/0xgouda/PhpProjects) - a collection of small/medium PHP projects 
 - [Gouda Shell aka __gsh__](https://github.com/0xgouda/ShellImplementation) - a basic interactive shell
+- [malloc101](https://github.com/0xgouda/malloc101) - implementation for malloc(), calloc(), realloc(), free() memory managers in c
 ## Skills
 - I don't stick to just one technology; I typically Google things as needed and get to work. However, here are some of the technologies I've worked with in the past.
 
 - **Technologies**
 
-  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Bash](https://skillicons.dev/icons?i=bash)  ![C++](https://skillicons.dev/icons?i=cpp) ![HTML](https://skillicons.dev/icons?i=html)  ![PHP](https://skillicons.dev/icons?i=php)  ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git)  ![Linux](https://skillicons.dev/icons?i=linux)  
+  ![Python](https://skillicons.dev/icons?i=python)  ![JavaScript](https://skillicons.dev/icons?i=javascript)  ![Bash](https://skillicons.dev/icons?i=bash)  ![C++](https://skillicons.dev/icons?i=cpp) ![HTML](https://skillicons.dev/icons?i=html)  ![PHP](https://skillicons.dev/icons?i=php)  ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git)  ![Linux](https://skillicons.dev/icons?i=linux) ![C](https://skillicons.dev/icons?i=c) 
