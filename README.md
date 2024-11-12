@@ -6,7 +6,7 @@ I’m a passionate developer and hacker who loves working with technology. Right
 
 ## What I Do
 
-- 🔭 I’m currently working on: [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine) / [Server Side PHP projects](https://github.com/0xgouda/PhpProjects)
+- 🔭 I’m currently working on: [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine) / [CMS](https://github.com/0xgouda/CMS)
 - 🌱 I’m currently learning: Web (development & security), Python, PHP 
 - 💬 Ask me about: Software Engineering, Bug Hunting, Web Development
 - 📫 How to reach me: [Email me](mailto:gouda0x@gmail.com) | [Twitter](https://x.com/_Ahmed_gouda__)
@@ -14,7 +14,7 @@ I’m a passionate developer and hacker who loves working with technology. Right
 ## My Projects
 
 - [simple browser engine](https://github.com/0xgouda/SimpleBrowserEngine) - a basic implementation of a web browser
-- [Server Side PHP projects](https://github.com/0xgouda/PhpProjects) - a collection of small/medium PHP projects 
+- [CMS](https://github.com/0xgouda/CMS) - A simple Content Management System (CMS) 
 - [Gouda Shell aka __gsh__](https://github.com/0xgouda/ShellImplementation) - a basic interactive shell
 - [malloc101](https://github.com/0xgouda/malloc101) - implementation for malloc(), calloc(), realloc(), free() memory managers in c
 ## Skills
